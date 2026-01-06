@@ -43,9 +43,10 @@
 
 The following review critically assesses the historiographical and epistemological claims presented in the
 #text(fill: blue)[#link(video-url)[subject transcript]]. Adopting a framework rooted in the philosophy of science and critical medical anthropology, this panel finds the video’s central thesis—that psychiatric diagnoses are historically contingent constructs rather than immutable biological natural kinds—to be *highly robust* and supported by extensive scholarship. While some specific neurobiological claims reflect evolving theories rather than settled law, the sociological and historical arguments regarding the weaponization of nosology (the classification of diseases) to enforce race, class, and gender hierarchies are accurate.
- Full research resources can be found here: #text(fill: blue)[#link("https://github.com/plops/olisun_psych")].
 
+Full research resources can be found here: #link("https://github.com/plops/olisun_psych").
 
+_Disclaimer: This document was prepared using research with Google AI mode and Gemini-3-Pro-Preview; all intermediate output is available in the linked repository._
 
 // --- Section I ---
 = Section I: The Archaeology of Diagnosis (Historical Accuracy)
