@@ -31,7 +31,7 @@
 
   #v(0.5em)
   #text(style: "italic")[Datum: 6. Januar 2026] \
-  #text(weight: "bold")[Expertenpanel:] Medizinhistoriker, Philosophen der Psychiatrie, Kritische Medizinanthropologen \
+  #text(weight: "bold")[AI simuliertes Expertenpanel:] Medizinhistoriker, Philosophen der Psychiatrie, Kritische Medizinanthropologen \
   #text(weight: "bold")[Gegenstand:] Video-Transkript – "The Social Construction of Psychiatric Diagnosis"
 ]
 
@@ -101,6 +101,32 @@ _Hinweis: Dieses Dokument wurde unter Verwendung von Google AI mode und Gemini-3
 Das Transkript dient als äußerst akkurate Einführung in die *soziale Konstruktion von Krankheit*. Es unterscheidet korrekt zwischen der _ontologischen Realität_ des Leidens (welches real ist) und den _diagnostischen Kategorien_, die verwendet werden, um es einzuhegen (welche konstruiert sind). Durch die Gegenüberstellung der somatischen Symptome des Ersten Weltkriegs (Shell Shock) mit den psychologischen Symptomen der modernen PTBS demonstriert der Text erfolgreich *Edward Shorters Theorie des "Symptom-Pools"* – dass der Ausdruck von Wahnsinn durch die "legitimen" Symptome geformt wird, die eine Kultur zulässt [28, 30].
 
 Das Video ist keine Leugnung der biologischen Realität, sondern eine Kritik am *biologischen Essentialismus*. Es spiegelt akkurat den aktuellen Stand der kritischen Medizinanthropologie wider: Diagnosen sind "real", weil sie reale Konsequenzen haben, nicht weil sie zeitlose, unabhängige Entitäten sind.
+
+#pagebreak()
+
+// --- Appendix: Video Summary ---
+= Anhang A: Zusammenfassung des Quellmaterials
+
+Im Folgenden finden Sie eine Übersetzung des Abstracts und der zeitgestempelten Inhalte des untersuchten Videos "The Social Construction of Psychiatric Diagnosis", die als Grundlage für diesen Faktencheck dienten.
+
+== Video-Abstract
+Dieses Transkript präsentiert eine kritische Historiographie der psychiatrischen Diagnose und argumentiert, dass Kategorien der psychischen Gesundheit eher sozial und historisch konstruiert als statische biologische Entitäten sind. Der Text stellt die "essentialistische" Sichtweise psychischer Erkrankungen in Frage, indem er obsolete Diagnosen wie *Nostalgie*, *Laktationswahnsinn* und *Drapetomanie* untersucht und aufzeigt, wie die Psychiatrie historisch Rasse, Geschlecht und den Widerstand gegen etablierte Machtstrukturen pathologisiert hat.
+
+Die Erzählung kontrastiert das "Kriegszittern" (Shell Shock) der Ära des Ersten Weltkriegs mit der modernen PTBS, um zu illustrieren, wie kulturelle Erwartungen den Symptomausdruck (Konversion) und die diagnostische Etikettierung diktieren. Unter Bezugnahme auf das Werk von Frantz Fanon kritisiert der Text die Anwendung westlicher psychiatrischer Modelle in kolonialen Kontexten. Darüber hinaus dekonstruiert er das Konzept der "Neurotypizität" als ein unterdrückerisches ökonomisches Ideal, das in kapitalistischer Produktivität verwurzelt ist, statt in biologischer Normalität. Die zentrale These schließt damit, dass Diagnosen zwar eine funktionale Realität und Nützlichkeit innerhalb ihrer kulturellen Epoche besitzen, ihnen jedoch eine universelle, transhistorische biologische Objektivität fehlt.
+
+== Die soziale Konstruktion psychiatrischer Diagnosen (Zeitstempel)
+
+- *00:00 Historische Instabilität der Diagnose:* Das Transkript eröffnet mit einer satirischen diagnostischen Bewertung, um hervorzuheben, wie Verhaltensweisen, die einst als tödliche Krankheiten pathologisiert wurden (z. B. *Nostalgie* im Bürgerkrieg, *Laktationswahnsinn*), heute nicht mehr anerkannt werden, was die Fluidität medizinischer Kategorien belegt.
+- *02:00 Diagnostische Verzerrung beim Geschlecht:* Diskutiert die häufige Fehldiagnose autistischer Frauen mit Borderline-Persönlichkeitsstörung (BPD) und suggeriert, dass 75 % der BPD-Diagnosen bei Frauen auf ein Versagen zurückzuführen sein könnten, weibliche Autismus-Präsentationen zu erkennen.
+- *04:08 Politische Instrumentalisierung der Psychiatrie:* Zitiert *Drapetomanie* – eine angebliche psychische Krankheit, die versklavte Schwarze Menschen zur Flucht veranlasste – als historisches Beispiel dafür, wie Psychiatrie genutzt wurde, um Sklaverei zu legitimieren und Widerstand als biologischen Wahnsinn zu rahmen.
+- *10:15 Medikalisierung:* Definiert Medikalisierung als den Prozess, bei dem nicht-medizinische Probleme als medizinische definiert werden (z. B. Zuschreibung sozialer Reibungen auf individuelle Gehirnchemie), wobei angemerkt wird, dass dies oft durch pharmazeutische Anreize getrieben wird.
+- *11:20 Kriegszittern (Shell Shock) vs. PTBS:* Kontrastiert den "Shell Shock" des Ersten Weltkriegs mit der modernen PTBS. "Shell Shock" (somatische Symptome wie Lähmung) war ein kulturell sanktionierter Ausdruck von Not in einer Ära, die psychologische Wunden ablehnte. Der Text merkt an, dass Offiziere mit "Neurasthenie" (intellektuelle Erschöpfung) diagnostiziert wurden, während niedere Ränge und Frauen mit "Hysterie" abgetan wurden.
+- *13:20 Konversion und Kultur:* Erklärt "Konversion" als die Übersetzung von psychologischem Schmerz in kulturell legitime Symptome. Die spezifische Manifestation eines Traumas hängt davon ab, was eine spezifische historische Gesellschaft als "echte" Krankheit ansieht.
+- *16:56 Frantz Fanon und koloniale Psychiatrie:* Referenziert den Rücktritt des Psychiaters Frantz Fanon in Algerien. Fanon argumentierte, dass die Psychiatrie an den kolonialen Subjekten scheiterte, indem sie versuchte, sie in eine entmenschlichende Gesellschaft zu integrieren, wobei kulturell voreingenommene Werkzeuge wie der Thematische Auffassungstest (TAT) mit ausschließlich europäischer Bildsprache verwendet wurden.
+- *21:15 Der Mythos der Neurotypizität:* Argumentiert, dass "Neurotypizität" eine statistische Fiktion und ein Zwangsideal ist. Es wird suggeriert, dass dieser Standard wie Heteronormativität funktioniert – eine unerreichbare Basislinie kontinuierlicher Rationalität und emotionaler Regulation, die der ökonomischen Produktivität dient, aber sowohl neurodivergenten als auch "normalen" Individuen schadet.
+- *23:40 Epistemische Ungerechtigkeit:* Diskutiert "kontributive Ungerechtigkeit", bei der die Dominanz der psychiatrischen Sprache die Fähigkeit der Menschen einschränkt, menschliches Verhalten durch nicht-medizinische Rahmenbedingungen zu verstehen (z. B. das Betrachten ausgeprägter Persönlichkeitsmerkmale ausschließlich als Symptome von Autismus oder ADHS).
+- *25:40 Produktivität als Funktion:* Kritisiert die Unterscheidung zwischen "hochfunktionalen" und "niedrigfunktionalen" Labels und behauptet, diese seien Maße für den ökonomischen Nutzen (Arbeitsfähigkeit) und nicht Maße für inneres Leiden oder Wohlbefinden.
+- *29:40 Ontologischer Status der Diagnose:* Schließt damit, dass psychiatrische Diagnosen nur in dem Sinne "real" sind, als sie kulturell nützliche Werkzeuge zur Organisation von Erfahrungen im gegenwärtigen Moment sind, aber keine unveränderlichen biologischen Fakten darstellen.
 
 #pagebreak()
 
