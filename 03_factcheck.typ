@@ -30,7 +30,7 @@
 
   #v(0.5em)
   #text(style: "italic")[Date: January 6, 2026] \
-  #text(weight: "bold")[Review Panel:] Medical Historians, Philosophers of Psychiatry, Critical Medical Anthropologists \
+  #text(weight: "bold")[AI simuliated Review Panel:] Medical Historians, Philosophers of Psychiatry, Critical Medical Anthropologists \
   #text(weight: "bold")[Subject:] Video Transcript – "The Social Construction of Psychiatric Diagnosis"
 ]
 
