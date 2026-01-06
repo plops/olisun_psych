@@ -22,7 +22,7 @@
 
 // --- Variables ---
 // Placeholder for the video URL. Replace with the specific video link if available.
-#let video-url = "https://www.youtube.com/watch?v=INSERT_VIDEO_ID_HERE"
+#let video-url = "https://www.youtube.com/watch?v=S2OjueAZGFo"
 
 // --- Document Title ---
 #align(center)[
@@ -41,7 +41,11 @@
 // --- Abstract ---
 = Abstract
 
-The following review critically assesses the historiographical and epistemological claims presented in the #link(video-url)[subject transcript]. Adopting a framework rooted in the philosophy of science and critical medical anthropology, this panel finds the video’s central thesis—that psychiatric diagnoses are historically contingent constructs rather than immutable biological natural kinds—to be *highly robust* and supported by extensive scholarship. While some specific neurobiological claims reflect evolving theories rather than settled law, the sociological and historical arguments regarding the weaponization of nosology (the classification of diseases) to enforce race, class, and gender hierarchies are accurate.
+The following review critically assesses the historiographical and epistemological claims presented in the
+#text(fill: blue)[#link(video-url)[subject transcript]]. Adopting a framework rooted in the philosophy of science and critical medical anthropology, this panel finds the video’s central thesis—that psychiatric diagnoses are historically contingent constructs rather than immutable biological natural kinds—to be *highly robust* and supported by extensive scholarship. While some specific neurobiological claims reflect evolving theories rather than settled law, the sociological and historical arguments regarding the weaponization of nosology (the classification of diseases) to enforce race, class, and gender hierarchies are accurate.
+ Full research resources can be found here: #text(fill: blue)[#link("https://github.com/plops/olisun_psych")].
+
+
 
 // --- Section I ---
 = Section I: The Archaeology of Diagnosis (Historical Accuracy)
