@@ -1,4 +1,4 @@
-create a german lecture/talk about the following fact checking of a youtube video.
+create a german lecture/talk about the following fact checking of a youtube video. use the system prompt 05b (generated using the advice of how to prepare powerful speeches from this video https://www.youtube.com/watch?v=t260757b_vU)
 
 
 Hier ist das Skript für den Vortrag, basierend auf den verifizierten Fakten des Fact-Checks und strukturiert nach der **Executive Communication Strategy**.
